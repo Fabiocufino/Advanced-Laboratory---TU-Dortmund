@@ -3,5 +3,6 @@
 *.png
 *.pdf
 *.so
-*.xsls
+*.xlsx
 *.h5
+.DS_Store
