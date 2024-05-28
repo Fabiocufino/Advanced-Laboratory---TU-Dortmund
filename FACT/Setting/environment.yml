@@ -1,0 +1,29 @@
+name: fp-fact
+channels:
+  - defaults
+
+dependencies:
+  - python=3.7
+  - pip
+  - astropy
+  - h5py
+  - hdf5
+  - ipykernel
+  - ipython
+  - jupyter
+  - matplotlib>=3
+  - notebook
+  - numexpr
+  - numpy
+  - pandas
+  - pymongo
+  - pymysql
+  - pyqt
+  - pytables
+  - qt
+  - scipy
+  - sqlalchemy
+  - sqlite
+  - tqdm
+  - pip:
+    - pyfact
